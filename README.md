@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Unity Game Jobs — 2026
 
-<sub><small>Last updated: Oct 12, 2026 at 21:16 UTC</small></sub>
+<sub><small>Last updated: Oct 13, 2026 at 19:14 UTC</small></sub>
 
 Daily Unity game jobs curated by Jobs in Games.
 Updated daily by [Jobs in Games](https://jobsingames.com?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs).
@@ -12,6 +12,10 @@ Visit [Jobs in Games](https://jobsingames.com?utm_source=github&utm_medium=repo&
 
 | Company | Position | Location | Workplace | Type | Date |
 | ------- | -------- | -------- | --------- | ---- | ---- |
+| **[Riot Games](https://jobsingames.com/jobs/riot-games-director-data-engineering-player-lifecycle-and-personalization-72ccaa6c?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | **[Director, Data Engineering – Player Lifecycle & Personalization](https://jobsingames.com/jobs/riot-games-director-data-engineering-player-lifecycle-and-personalization-72ccaa6c?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | Los Angeles, USA | On Site | Full Time | Oct 12 |
+| **[Riot Games](https://jobsingames.com/jobs/riot-games-principal-software-engineer-engine-and-tools-league-of-legends-c89f7aa6?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | **[Principal Software Engineer, Engine & Tools - League of Legends](https://jobsingames.com/jobs/riot-games-principal-software-engineer-engine-and-tools-league-of-legends-c89f7aa6?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | Los Angeles, USA | On Site | Full Time | Oct 12 |
+| **[Riot Games](https://jobsingames.com/jobs/riot-games-principal-3d-environment-artist-unpublished-r-and-d-product-2c18bb4c?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | **[Principal 3D Environment Artist - Unpublished R&D Product](https://jobsingames.com/jobs/riot-games-principal-3d-environment-artist-unpublished-r-and-d-product-2c18bb4c?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | Los Angeles, USA | On Site | Full Time | Oct 12 |
+| **[Zynga](https://jobsingames.com/jobs/zynga-software-engineer-unannounced-project-2a6c7099?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | **[Software Engineer - Unannounced Project](https://jobsingames.com/jobs/zynga-software-engineer-unannounced-project-2a6c7099?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | London, UK | On Site | Full Time | Oct 12 |
 | **[Scopely](https://jobsingames.com/jobs/scopely-playable-ads-developer-e7c6c13e?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | **[Playable Ads Developer](https://jobsingames.com/jobs/scopely-playable-ads-developer-e7c6c13e?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | IN - Bangalore, India | On Site | Full Time | Oct 12 |
 | **[PlayStation](https://jobsingames.com/jobs/playstation-senior-game-application-security-analyst-c514d082?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | **[Senior Game Application Security Analyst](https://jobsingames.com/jobs/playstation-senior-game-application-security-analyst-c514d082?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | United States, Remote | Remote | Full Time | Oct 9 |
 | **[Twitch](https://jobsingames.com/jobs/twitch-software-engineer-ii-fintech-3808c1d1?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | **[Software Engineer II, Fintech](https://jobsingames.com/jobs/twitch-software-engineer-ii-fintech-3808c1d1?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | San Francisco, CA | On Site | Full Time | Oct 9 |
@@ -58,10 +62,6 @@ Visit [Jobs in Games](https://jobsingames.com?utm_source=github&utm_medium=repo&
 | **[PlayStation](https://jobsingames.com/jobs/playstation-senior-accountant-e-commerce-contract-3d4ddfd7?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | **[Senior Accountant, e-Commerce (Contract)](https://jobsingames.com/jobs/playstation-senior-accountant-e-commerce-contract-3d4ddfd7?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | United States, San Mateo, CA | On Site | Contract | Oct 3 |
 | **[Riot Games](https://jobsingames.com/jobs/riot-games-senior-vfx-artist-unpublished-r-and-d-product-409c1750?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | **[Senior VFX Artist - Unpublished R&D Product](https://jobsingames.com/jobs/riot-games-senior-vfx-artist-unpublished-r-and-d-product-409c1750?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | Los Angeles, USA | On Site | Full Time | Oct 2 |
 | **[PlayStation](https://jobsingames.com/jobs/playstation-influencer-partnerships-manager-talent-and-influencers-606d6f79?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | **[Influencer Partnerships Manager (Talent & Influencers)](https://jobsingames.com/jobs/playstation-influencer-partnerships-manager-talent-and-influencers-606d6f79?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | United States, San Mateo, CA | On Site | Full Time | Oct 2 |
-| **[PlayStation](https://jobsingames.com/jobs/playstation-influencer-partnerships-manager-talent-and-influencers-4f6672a9?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | **[Influencer Partnerships Manager (Talent & Influencers)](https://jobsingames.com/jobs/playstation-influencer-partnerships-manager-talent-and-influencers-4f6672a9?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | United Kingdom, London | On Site | Full Time | Oct 2 |
-| **[Riot Games](https://jobsingames.com/jobs/riot-games-senior-brand-manager-c4aaea5e?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | **[Senior Brand Manager](https://jobsingames.com/jobs/riot-games-senior-brand-manager-c4aaea5e?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | Los Angeles, USA | On Site | Full Time | Oct 2 |
-| **[Scopely](https://jobsingames.com/jobs/scopely-senior-engineer-monopoly-go-2fbd058c?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | **[Senior Engineer_MONOPOLY GO!](https://jobsingames.com/jobs/scopely-senior-engineer-monopoly-go-2fbd058c?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | ES - Barcelona, Spain | On Site | Full Time | Oct 2 |
-| **[PlayStation](https://jobsingames.com/jobs/playstation-cloud-game-streaming-systems-engineer-ea93af68?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | **[Cloud Game Streaming - Systems Engineer](https://jobsingames.com/jobs/playstation-cloud-game-streaming-systems-engineer-ea93af68?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | United Kingdom, London | On Site | Full Time | Oct 2 |
 
 ---
 
@@ -70,7 +70,7 @@ _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-10-12 archive](archive/2026-10-12.md)
+- [2026-10-13 archive](archive/2026-10-13.md)
 
 ## About This Repository
 
