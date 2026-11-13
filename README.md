@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Unity Game Jobs — 2026
 
-<sub><small>Last updated: Nov 12, 2026 at 19:53 UTC</small></sub>
+<sub><small>Last updated: Nov 13, 2026 at 19:38 UTC</small></sub>
 
 Daily Unity game jobs curated by Jobs in Games.
 Updated daily by [Jobs in Games](https://jobsingames.com?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs).
@@ -12,7 +12,13 @@ Visit [Jobs in Games](https://jobsingames.com?utm_source=github&utm_medium=repo&
 
 | Company | Position | Location | Workplace | Type | Date |
 | ------- | -------- | -------- | --------- | ---- | ---- |
+| **[PlayStation](https://jobsingames.com/jobs/playstation-senior-director-people-experience-americas-d514542e?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | **[Senior Director, People Experience (Americas)](https://jobsingames.com/jobs/playstation-senior-director-people-experience-americas-d514542e?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | United States, San Mateo, CA | On Site | Full Time | Nov 13 |
+| **[PlayStation](https://jobsingames.com/jobs/playstation-influencer-partnerships-manager-live-service-gaming-9a8efde7?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | **[Influencer Partnerships Manager (Live Service Gaming)](https://jobsingames.com/jobs/playstation-influencer-partnerships-manager-live-service-gaming-9a8efde7?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | United States, San Mateo, CA | On Site | Full Time | Nov 12 |
+| **[Riot Games](https://jobsingames.com/jobs/riot-games-security-engineer-security-operations-496000a2?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | **[Security Engineer, Security Operations](https://jobsingames.com/jobs/riot-games-security-engineer-security-operations-496000a2?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | Dublin, Ireland | On Site | Full Time | Nov 12 |
+| **[PlayStation](https://jobsingames.com/jobs/playstation-senior-concept-artist-11ee0021?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | **[Senior Concept Artist](https://jobsingames.com/jobs/playstation-senior-concept-artist-11ee0021?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | United States, Bellevue, WA | On Site | Full Time | Nov 12 |
+| **[2K](https://jobsingames.com/jobs/2k-associate-art-director-09519ec2?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | **[Associate Art Director](https://jobsingames.com/jobs/2k-associate-art-director-09519ec2?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | Burnaby, British Columbia, Canada | On Site | Full Time | Nov 12 |
 | **[Riot Games](https://jobsingames.com/jobs/riot-games-senior-partnership-manager-24fdbeef?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | **[Senior Partnership Manager](https://jobsingames.com/jobs/riot-games-senior-partnership-manager-24fdbeef?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | Shanghai, China | On Site | Full Time | Nov 12 |
+| **[Unity](https://jobsingames.com/jobs/unity-senior-application-security-engineer-c971c122?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | **[Senior Application Security Engineer](https://jobsingames.com/jobs/unity-senior-application-security-engineer-c971c122?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | San Francisco, CA, USA | On Site | Full Time | Nov 12 |
 | **[Riot Games](https://jobsingames.com/jobs/riot-games-staff-software-engineer-central-technology-data-foundations-7bba6512?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | **[Staff Software Engineer - Central Technology, Data Foundations](https://jobsingames.com/jobs/riot-games-staff-software-engineer-central-technology-data-foundations-7bba6512?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | Los Angeles, USA | On Site | Full Time | Nov 11 |
 | **[Riot Games](https://jobsingames.com/jobs/riot-games-technical-game-design-intern-summer-2027-c00e94f2?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | **[Technical Game Design Intern - Summer 2027](https://jobsingames.com/jobs/riot-games-technical-game-design-intern-summer-2027-c00e94f2?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | Los Angeles, USA | On Site | intern | Nov 11 |
 | **[Riot Games](https://jobsingames.com/jobs/riot-games-game-producer-intern-teamfight-tactics-masters-phd-summer-2027-228348d2?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | **[Game Producer Intern, Teamfight Tactics (Masters/PhD) - Summer 2027](https://jobsingames.com/jobs/riot-games-game-producer-intern-teamfight-tactics-masters-phd-summer-2027-228348d2?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | Los Angeles, USA | On Site | intern | Nov 11 |
@@ -56,21 +62,15 @@ Visit [Jobs in Games](https://jobsingames.com?utm_source=github&utm_medium=repo&
 | **[2K](https://jobsingames.com/jobs/2k-publishing-producer-97d354f4?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | **[Publishing Producer](https://jobsingames.com/jobs/2k-publishing-producer-97d354f4?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | Novato, California, United States | On Site | Full Time | Nov 6 |
 | **[2K](https://jobsingames.com/jobs/2k-manager-community-bioshock-franchise-95e51ce6?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | **[Manager, Community - BioShock Franchise](https://jobsingames.com/jobs/2k-manager-community-bioshock-franchise-95e51ce6?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | Los Angeles, California, United States; Novato, California, United States | On Site | Full Time | Nov 6 |
 | **[PlayStation](https://jobsingames.com/jobs/playstation-lead-software-engineer-data-8848660a?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | **[Lead Software Engineer - Data](https://jobsingames.com/jobs/playstation-lead-software-engineer-data-8848660a?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | United Kingdom, London | On Site | Full Time | Nov 6 |
-| **[PlayStation](https://jobsingames.com/jobs/playstation-operations-specialist-f452cbeb?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | **[Operations Specialist](https://jobsingames.com/jobs/playstation-operations-specialist-f452cbeb?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | Singapore, Singapore | On Site | Full Time | Nov 6 |
-| **[PlayStation](https://jobsingames.com/jobs/playstation-threat-intelligence-investigator-a1b2de00?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | **[Threat Intelligence Investigator](https://jobsingames.com/jobs/playstation-threat-intelligence-investigator-a1b2de00?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | Australia, Adelaide | On Site | Full Time | Nov 6 |
-| **[Riot Games](https://jobsingames.com/jobs/riot-games-music-supervision-and-partnerships-lead-cn-apac-c4ec1f24?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | **[Music Supervision & Partnerships Lead, CN/APAC](https://jobsingames.com/jobs/riot-games-music-supervision-and-partnerships-lead-cn-apac-c4ec1f24?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | Shanghai, China | On Site | Full Time | Nov 6 |
-| **[Zynga](https://jobsingames.com/jobs/zynga-level-game-designer-senior-lead-6a8814d0?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | **[Level Game Designer (Senior / Lead)](https://jobsingames.com/jobs/zynga-level-game-designer-senior-lead-6a8814d0?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | Bengaluru, India | On Site | Full Time | Nov 6 |
-| **[PlayStation](https://jobsingames.com/jobs/playstation-senior-compositor-b99445ec?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | **[Senior Compositor](https://jobsingames.com/jobs/playstation-senior-compositor-b99445ec?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | Malaysia, Petaling Jaya | On Site | Full Time | Nov 6 |
-| **[Scopely](https://jobsingames.com/jobs/scopely-technical-vfx-artist-pok-mon-go-17d5276a?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | **[Technical VFX Artist, Pokémon GO](https://jobsingames.com/jobs/scopely-technical-vfx-artist-pok-mon-go-17d5276a?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | JP - Tokyo, Japan | On Site | Full Time | Nov 6 |
 
 ---
 
-**Current Stats:** 50 jobs | 4% remote | 7 companies | 0 salary ranges listed
+**Current Stats:** 50 jobs | 4% remote | 8 companies | 0 salary ranges listed
 _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-11-12 archive](archive/2026-11-12.md)
+- [2026-11-13 archive](archive/2026-11-13.md)
 
 ## About This Repository
 
