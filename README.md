@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Unity Game Jobs — 2026
 
-<sub><small>Last updated: Nov 13, 2026 at 19:38 UTC</small></sub>
+<sub><small>Last updated: Nov 14, 2026 at 17:58 UTC</small></sub>
 
 Daily Unity game jobs curated by Jobs in Games.
 Updated daily by [Jobs in Games](https://jobsingames.com?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs).
@@ -12,6 +12,12 @@ Visit [Jobs in Games](https://jobsingames.com?utm_source=github&utm_medium=repo&
 
 | Company | Position | Location | Workplace | Type | Date |
 | ------- | -------- | -------- | --------- | ---- | ---- |
+| **[2K](https://jobsingames.com/jobs/2k-senior-technical-ui-designer-3c8b99e4?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | **[Senior Technical UI Designer](https://jobsingames.com/jobs/2k-senior-technical-ui-designer-3c8b99e4?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | San Mateo, California, United States | On Site | Full Time | Nov 14 |
+| **[2K](https://jobsingames.com/jobs/2k-art-director-1ba48afe?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | **[Art Director](https://jobsingames.com/jobs/2k-art-director-1ba48afe?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | San Mateo, California, United States | On Site | Full Time | Nov 14 |
+| **[PlayStation](https://jobsingames.com/jobs/playstation-manager-corporate-development-and-finance-c8fc2e4f?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | **[Manager, Corporate Development & Finance](https://jobsingames.com/jobs/playstation-manager-corporate-development-and-finance-c8fc2e4f?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | United States, San Mateo, CA | On Site | Full Time | Nov 14 |
+| **[Scopely](https://jobsingames.com/jobs/scopely-principal-technical-designer-9a5b5723?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | **[Principal Technical Designer](https://jobsingames.com/jobs/scopely-principal-technical-designer-9a5b5723?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | US - United States | On Site | Full Time | Nov 13 |
+| **[Scopely](https://jobsingames.com/jobs/scopely-senior-technical-artist-unannounced-project-e7554640?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | **[Senior Technical Artist - Unannounced Project](https://jobsingames.com/jobs/scopely-senior-technical-artist-unannounced-project-e7554640?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | ES - Barcelona, Spain | On Site | Full Time | Nov 13 |
+| **[Scopely](https://jobsingames.com/jobs/scopely-senior-motion-designer-37e6b988?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | **[Senior Motion Designer](https://jobsingames.com/jobs/scopely-senior-motion-designer-37e6b988?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | ES - Barcelona, Spain | On Site | Full Time | Nov 13 |
 | **[PlayStation](https://jobsingames.com/jobs/playstation-senior-director-people-experience-americas-d514542e?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | **[Senior Director, People Experience (Americas)](https://jobsingames.com/jobs/playstation-senior-director-people-experience-americas-d514542e?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | United States, San Mateo, CA | On Site | Full Time | Nov 13 |
 | **[PlayStation](https://jobsingames.com/jobs/playstation-influencer-partnerships-manager-live-service-gaming-9a8efde7?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | **[Influencer Partnerships Manager (Live Service Gaming)](https://jobsingames.com/jobs/playstation-influencer-partnerships-manager-live-service-gaming-9a8efde7?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | United States, San Mateo, CA | On Site | Full Time | Nov 12 |
 | **[Riot Games](https://jobsingames.com/jobs/riot-games-security-engineer-security-operations-496000a2?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | **[Security Engineer, Security Operations](https://jobsingames.com/jobs/riot-games-security-engineer-security-operations-496000a2?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | Dublin, Ireland | On Site | Full Time | Nov 12 |
@@ -56,21 +62,15 @@ Visit [Jobs in Games](https://jobsingames.com?utm_source=github&utm_medium=repo&
 | **[Scopely](https://jobsingames.com/jobs/scopely-full-stack-engineer-7ff466c8?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | **[Full Stack Engineer](https://jobsingames.com/jobs/scopely-full-stack-engineer-7ff466c8?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | US - United States | On Site | Full Time | Nov 9 |
 | **[PlayStation](https://jobsingames.com/jobs/playstation-senior-product-insights-analyst-1297914a?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | **[Senior Product Insights Analyst](https://jobsingames.com/jobs/playstation-senior-product-insights-analyst-1297914a?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | United Kingdom, London | On Site | Full Time | Nov 9 |
 | **[PlayStation](https://jobsingames.com/jobs/playstation-hardware-fleet-operations-specialist-12f3f055?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | **[Hardware Fleet Operations Specialist](https://jobsingames.com/jobs/playstation-hardware-fleet-operations-specialist-12f3f055?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | United States, Aliso Viejo, CA | On Site | Full Time | Nov 9 |
-| **[CipSoft GmbH](https://jobsingames.com/jobs/cipsoft-gmbh-senior-community-manager-m-w-d-f-r-redakteure-and-journalisten-3d28e1c3?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | **[Senior Community Manager (m/w/d) für Redakteure & Journalisten](https://jobsingames.com/jobs/cipsoft-gmbh-senior-community-manager-m-w-d-f-r-redakteure-and-journalisten-3d28e1c3?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | Regensburg, 93049, Germany | On Site | Full Time | Nov 8 |
-| **[Scopely](https://jobsingames.com/jobs/scopely-senior-client-engineer-stumble-guys-177c2d12?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | **[Senior Client Engineer - Stumble Guys!](https://jobsingames.com/jobs/scopely-senior-client-engineer-stumble-guys-177c2d12?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | ES - Barcelona, Spain | On Site | Full Time | Nov 8 |
-| **[PlayStation](https://jobsingames.com/jobs/playstation-sr-technical-program-manager-7a4a0c72?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | **[Sr. Technical Program Manager](https://jobsingames.com/jobs/playstation-sr-technical-program-manager-7a4a0c72?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | United States, Madison, WI | On Site | Full Time | Nov 6 |
-| **[2K](https://jobsingames.com/jobs/2k-publishing-producer-97d354f4?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | **[Publishing Producer](https://jobsingames.com/jobs/2k-publishing-producer-97d354f4?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | Novato, California, United States | On Site | Full Time | Nov 6 |
-| **[2K](https://jobsingames.com/jobs/2k-manager-community-bioshock-franchise-95e51ce6?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | **[Manager, Community - BioShock Franchise](https://jobsingames.com/jobs/2k-manager-community-bioshock-franchise-95e51ce6?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | Los Angeles, California, United States; Novato, California, United States | On Site | Full Time | Nov 6 |
-| **[PlayStation](https://jobsingames.com/jobs/playstation-lead-software-engineer-data-8848660a?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | **[Lead Software Engineer - Data](https://jobsingames.com/jobs/playstation-lead-software-engineer-data-8848660a?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | United Kingdom, London | On Site | Full Time | Nov 6 |
 
 ---
 
-**Current Stats:** 50 jobs | 4% remote | 8 companies | 0 salary ranges listed
+**Current Stats:** 50 jobs | 4% remote | 7 companies | 0 salary ranges listed
 _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-11-13 archive](archive/2026-11-13.md)
+- [2026-11-14 archive](archive/2026-11-14.md)
 
 ## About This Repository
 
