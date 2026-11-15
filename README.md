@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Unity Game Jobs — 2026
 
-<sub><small>Last updated: Nov 14, 2026 at 17:58 UTC</small></sub>
+<sub><small>Last updated: Nov 15, 2026 at 18:47 UTC</small></sub>
 
 Daily Unity game jobs curated by Jobs in Games.
 Updated daily by [Jobs in Games](https://jobsingames.com?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs).
@@ -70,7 +70,7 @@ _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-11-14 archive](archive/2026-11-14.md)
+- [2026-11-15 archive](archive/2026-11-15.md)
 
 ## About This Repository
 
