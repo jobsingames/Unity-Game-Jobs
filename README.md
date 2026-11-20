@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Unity Game Jobs — 2026
 
-<sub><small>Last updated: Nov 19, 2026 at 20:30 UTC</small></sub>
+<sub><small>Last updated: Nov 20, 2026 at 20:06 UTC</small></sub>
 
 Daily Unity game jobs curated by Jobs in Games.
 Updated daily by [Jobs in Games](https://jobsingames.com?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs).
@@ -12,6 +12,11 @@ Visit [Jobs in Games](https://jobsingames.com?utm_source=github&utm_medium=repo&
 
 | Company | Position | Location | Workplace | Type | Date |
 | ------- | -------- | -------- | --------- | ---- | ---- |
+| **[Zynga](https://jobsingames.com/jobs/zynga-lead-producer-09d20a6e?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | **[Lead Producer](https://jobsingames.com/jobs/zynga-lead-producer-09d20a6e?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | Bengaluru, India | On Site | Full Time | Nov 20 |
+| **[Discord](https://jobsingames.com/jobs/discord-account-executive-media-and-entertainment-eab3e706?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | **[Account Executive, Media & Entertainment](https://jobsingames.com/jobs/discord-account-executive-media-and-entertainment-eab3e706?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | Los Angeles Metropolitan Area or New York City Metropolitan Area | On Site | Full Time | Nov 20 |
+| **[Riot Games](https://jobsingames.com/jobs/riot-games-senior-asset-and-portfolio-manager-412db19d?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | **[Senior Asset & Portfolio Manager](https://jobsingames.com/jobs/riot-games-senior-asset-and-portfolio-manager-412db19d?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | Los Angeles, USA | On Site | Full Time | Nov 19 |
+| **[Epic Games](https://jobsingames.com/jobs/epic-games-principal-animator-3f4e610d?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | **[Principal Animator](https://jobsingames.com/jobs/epic-games-principal-animator-3f4e610d?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | BLANK,BLANK,Multiple Locations | On Site | Full Time | Nov 19 |
+| **[2K](https://jobsingames.com/jobs/2k-senior-gameplay-audio-software-engineer-065735d2?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | **[Senior Gameplay Audio Software Engineer](https://jobsingames.com/jobs/2k-senior-gameplay-audio-software-engineer-065735d2?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | Vancouver, British Columbia, Canada | On Site | Full Time | Nov 19 |
 | **[Zynga](https://jobsingames.com/jobs/zynga-lead-senior-level-game-designer-d768226c?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | **[Lead / Senior Level Game Designer](https://jobsingames.com/jobs/zynga-lead-senior-level-game-designer-d768226c?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | Bengaluru, India | On Site | Full Time | Nov 19 |
 | **[Zynga](https://jobsingames.com/jobs/zynga-architect-624aaf7b?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | **[Architect](https://jobsingames.com/jobs/zynga-architect-624aaf7b?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | Bengaluru, India | On Site | Full Time | Nov 19 |
 | **[Zynga](https://jobsingames.com/jobs/zynga-senior-producer-e306cd03?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | **[Senior Producer](https://jobsingames.com/jobs/zynga-senior-producer-e306cd03?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | Bengaluru, India | On Site | Full Time | Nov 19 |
@@ -57,20 +62,15 @@ Visit [Jobs in Games](https://jobsingames.com?utm_source=github&utm_medium=repo&
 | **[2K](https://jobsingames.com/jobs/2k-associate-art-director-09519ec2?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | **[Associate Art Director](https://jobsingames.com/jobs/2k-associate-art-director-09519ec2?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | Burnaby, British Columbia, Canada | On Site | Full Time | Nov 12 |
 | **[Riot Games](https://jobsingames.com/jobs/riot-games-senior-partnership-manager-24fdbeef?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | **[Senior Partnership Manager](https://jobsingames.com/jobs/riot-games-senior-partnership-manager-24fdbeef?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | Shanghai, China | On Site | Full Time | Nov 12 |
 | **[Unity](https://jobsingames.com/jobs/unity-senior-application-security-engineer-c971c122?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | **[Senior Application Security Engineer](https://jobsingames.com/jobs/unity-senior-application-security-engineer-c971c122?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | San Francisco, CA, USA | On Site | Full Time | Nov 12 |
-| **[Riot Games](https://jobsingames.com/jobs/riot-games-staff-software-engineer-central-technology-data-foundations-7bba6512?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | **[Staff Software Engineer - Central Technology, Data Foundations](https://jobsingames.com/jobs/riot-games-staff-software-engineer-central-technology-data-foundations-7bba6512?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | Los Angeles, USA | On Site | Full Time | Nov 11 |
-| **[Riot Games](https://jobsingames.com/jobs/riot-games-technical-game-design-intern-summer-2027-c00e94f2?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | **[Technical Game Design Intern - Summer 2027](https://jobsingames.com/jobs/riot-games-technical-game-design-intern-summer-2027-c00e94f2?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | Los Angeles, USA | On Site | intern | Nov 11 |
-| **[Riot Games](https://jobsingames.com/jobs/riot-games-game-producer-intern-teamfight-tactics-masters-phd-summer-2027-228348d2?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | **[Game Producer Intern, Teamfight Tactics (Masters/PhD) - Summer 2027](https://jobsingames.com/jobs/riot-games-game-producer-intern-teamfight-tactics-masters-phd-summer-2027-228348d2?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | Los Angeles, USA | On Site | intern | Nov 11 |
-| **[Riot Games](https://jobsingames.com/jobs/riot-games-insights-analyst-intern-league-of-legends-summer-2027-08e9398b?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | **[Insights Analyst Intern, League of Legends - Summer 2027](https://jobsingames.com/jobs/riot-games-insights-analyst-intern-league-of-legends-summer-2027-08e9398b?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | Los Angeles, USA | On Site | intern | Nov 11 |
-| **[Riot Games](https://jobsingames.com/jobs/riot-games-anti-cheat-engineering-intern-masters-phd-summer-2027-57d3b7d0?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | **[Anti-Cheat Engineering Intern (Masters/PhD) - Summer 2027](https://jobsingames.com/jobs/riot-games-anti-cheat-engineering-intern-masters-phd-summer-2027-57d3b7d0?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | Los Angeles, USA | On Site | intern | Nov 11 |
 
 ---
 
-**Current Stats:** 50 jobs | 0% remote | 6 companies | 0 salary ranges listed
+**Current Stats:** 50 jobs | 0% remote | 8 companies | 0 salary ranges listed
 _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-11-19 archive](archive/2026-11-19.md)
+- [2026-11-20 archive](archive/2026-11-20.md)
 
 ## About This Repository
 
