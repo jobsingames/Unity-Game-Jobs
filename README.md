@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Unity Game Jobs — 2026
 
-<sub><small>Last updated: Nov 20, 2026 at 20:06 UTC</small></sub>
+<sub><small>Last updated: Nov 21, 2026 at 19:09 UTC</small></sub>
 
 Daily Unity game jobs curated by Jobs in Games.
 Updated daily by [Jobs in Games](https://jobsingames.com?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs).
@@ -12,6 +12,10 @@ Visit [Jobs in Games](https://jobsingames.com?utm_source=github&utm_medium=repo&
 
 | Company | Position | Location | Workplace | Type | Date |
 | ------- | -------- | -------- | --------- | ---- | ---- |
+| **[Scopely](https://jobsingames.com/jobs/scopely-community-manager-be82cfc8?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | **[Community Manager](https://jobsingames.com/jobs/scopely-community-manager-be82cfc8?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | ES - Barcelona, Spain | On Site | Full Time | Nov 21 |
+| **[PlayStation](https://jobsingames.com/jobs/playstation-accounts-payable-and-expense-operations-analyst-contractor-b0fa6da5?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | **[Accounts Payable & Expense Operations Analyst (Contractor)](https://jobsingames.com/jobs/playstation-accounts-payable-and-expense-operations-analyst-contractor-b0fa6da5?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | United States, San Mateo, CA | On Site | Contract | Nov 20 |
+| **[Scopely](https://jobsingames.com/jobs/scopely-senior-support-specialist-f8342d95?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | **[Senior Support Specialist](https://jobsingames.com/jobs/scopely-senior-support-specialist-f8342d95?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | ES - Barcelona, Spain | On Site | Full Time | Nov 20 |
+| **[Zynga](https://jobsingames.com/jobs/zynga-lead-artist-20b27edf?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | **[Lead Artist](https://jobsingames.com/jobs/zynga-lead-artist-20b27edf?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | Bengaluru, India | On Site | Full Time | Nov 20 |
 | **[Zynga](https://jobsingames.com/jobs/zynga-lead-producer-09d20a6e?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | **[Lead Producer](https://jobsingames.com/jobs/zynga-lead-producer-09d20a6e?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | Bengaluru, India | On Site | Full Time | Nov 20 |
 | **[Discord](https://jobsingames.com/jobs/discord-account-executive-media-and-entertainment-eab3e706?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | **[Account Executive, Media & Entertainment](https://jobsingames.com/jobs/discord-account-executive-media-and-entertainment-eab3e706?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | Los Angeles Metropolitan Area or New York City Metropolitan Area | On Site | Full Time | Nov 20 |
 | **[Riot Games](https://jobsingames.com/jobs/riot-games-senior-asset-and-portfolio-manager-412db19d?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | **[Senior Asset & Portfolio Manager](https://jobsingames.com/jobs/riot-games-senior-asset-and-portfolio-manager-412db19d?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | Los Angeles, USA | On Site | Full Time | Nov 19 |
@@ -58,10 +62,6 @@ Visit [Jobs in Games](https://jobsingames.com?utm_source=github&utm_medium=repo&
 | **[PlayStation](https://jobsingames.com/jobs/playstation-senior-director-people-experience-americas-d514542e?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | **[Senior Director, People Experience (Americas)](https://jobsingames.com/jobs/playstation-senior-director-people-experience-americas-d514542e?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | United States, San Mateo, CA | On Site | Full Time | Nov 13 |
 | **[PlayStation](https://jobsingames.com/jobs/playstation-influencer-partnerships-manager-live-service-gaming-9a8efde7?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | **[Influencer Partnerships Manager (Live Service Gaming)](https://jobsingames.com/jobs/playstation-influencer-partnerships-manager-live-service-gaming-9a8efde7?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | United States, San Mateo, CA | On Site | Full Time | Nov 12 |
 | **[Riot Games](https://jobsingames.com/jobs/riot-games-security-engineer-security-operations-496000a2?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | **[Security Engineer, Security Operations](https://jobsingames.com/jobs/riot-games-security-engineer-security-operations-496000a2?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | Dublin, Ireland | On Site | Full Time | Nov 12 |
-| **[PlayStation](https://jobsingames.com/jobs/playstation-senior-concept-artist-11ee0021?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | **[Senior Concept Artist](https://jobsingames.com/jobs/playstation-senior-concept-artist-11ee0021?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | United States, Bellevue, WA | On Site | Full Time | Nov 12 |
-| **[2K](https://jobsingames.com/jobs/2k-associate-art-director-09519ec2?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | **[Associate Art Director](https://jobsingames.com/jobs/2k-associate-art-director-09519ec2?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | Burnaby, British Columbia, Canada | On Site | Full Time | Nov 12 |
-| **[Riot Games](https://jobsingames.com/jobs/riot-games-senior-partnership-manager-24fdbeef?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | **[Senior Partnership Manager](https://jobsingames.com/jobs/riot-games-senior-partnership-manager-24fdbeef?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | Shanghai, China | On Site | Full Time | Nov 12 |
-| **[Unity](https://jobsingames.com/jobs/unity-senior-application-security-engineer-c971c122?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | **[Senior Application Security Engineer](https://jobsingames.com/jobs/unity-senior-application-security-engineer-c971c122?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | San Francisco, CA, USA | On Site | Full Time | Nov 12 |
 
 ---
 
@@ -70,7 +70,7 @@ _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-11-20 archive](archive/2026-11-20.md)
+- [2026-11-21 archive](archive/2026-11-21.md)
 
 ## About This Repository
 
