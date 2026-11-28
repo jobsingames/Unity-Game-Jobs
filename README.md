@@ -1,7 +1,7 @@
 <!-- prettier-ignore-start -->
 # Unity Game Jobs — 2026
 
-<sub><small>Last updated: Nov 27, 2026 at 21:10 UTC</small></sub>
+<sub><small>Last updated: Nov 28, 2026 at 19:57 UTC</small></sub>
 
 Daily Unity game jobs curated by Jobs in Games.
 Updated daily by [Jobs in Games](https://jobsingames.com?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs).
@@ -12,9 +12,13 @@ Visit [Jobs in Games](https://jobsingames.com?utm_source=github&utm_medium=repo&
 
 | Company | Position | Location | Workplace | Type | Date |
 | ------- | -------- | -------- | --------- | ---- | ---- |
+| **[Zynga](https://jobsingames.com/jobs/zynga-senior-ua-manager-naturalmotion-games-e36f9da4?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | **[Senior UA Manager - NaturalMotion Games](https://jobsingames.com/jobs/zynga-senior-ua-manager-naturalmotion-games-e36f9da4?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | London, UK | On Site | Full Time | Nov 27 |
+| **[PlayStation](https://jobsingames.com/jobs/playstation-playstation-6eab9c7b?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | **[PlayStation オンラインサービス ソーシャル機能サーバー開発ソフトウェアエンジニア](https://jobsingames.com/jobs/playstation-playstation-6eab9c7b?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | Japan, Tokyo | On Site | Full Time | Nov 27 |
 | **[Riot Games](https://jobsingames.com/jobs/riot-games-organized-play-market-specialist-apac-contract-cdddbcc3?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | **[Organized Play Market Specialist, APAC (Contract)](https://jobsingames.com/jobs/riot-games-organized-play-market-specialist-apac-contract-cdddbcc3?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | Singapore | On Site | Contract | Nov 26 |
 | **[2K](https://jobsingames.com/jobs/2k-manager-finops-and-observability-75686ae8?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | **[Manager, FinOps and Observability](https://jobsingames.com/jobs/2k-manager-finops-and-observability-75686ae8?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | Seattle, Washington, United States | On Site | Full Time | Nov 25 |
 | **[2K](https://jobsingames.com/jobs/2k-manager-finops-and-observability-0e07d376?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | **[Manager, FinOps and Observability](https://jobsingames.com/jobs/2k-manager-finops-and-observability-0e07d376?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | Los Angeles, California, United States | On Site | Full Time | Nov 25 |
+| **[2K](https://jobsingames.com/jobs/2k-manager-finops-and-observability-20c726ae?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | **[Manager, FinOps and Observability](https://jobsingames.com/jobs/2k-manager-finops-and-observability-20c726ae?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | Novato, California, United States | On Site | Full Time | Nov 25 |
+| **[2K](https://jobsingames.com/jobs/2k-manager-finops-and-observability-8c2f877b?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | **[Manager, FinOps and Observability](https://jobsingames.com/jobs/2k-manager-finops-and-observability-8c2f877b?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | Austin, Texas, United States | On Site | Full Time | Nov 25 |
 | **[PlayStation](https://jobsingames.com/jobs/playstation-software-engineer-ii-4247d6f9?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | **[Software Engineer II](https://jobsingames.com/jobs/playstation-software-engineer-ii-4247d6f9?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | United States, San Mateo, CA | On Site | Full Time | Nov 25 |
 | **[Zynga](https://jobsingames.com/jobs/zynga-lead-senior-level-designer-89aff92d?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | **[Lead / Senior Level Designer](https://jobsingames.com/jobs/zynga-lead-senior-level-designer-89aff92d?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | Istanbul, Turkey | On Site | Full Time | Nov 25 |
 | **[PlayStation](https://jobsingames.com/jobs/playstation-fp-and-a-manager-operations-7751fe87?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | **[FP&A Manager, Operations](https://jobsingames.com/jobs/playstation-fp-and-a-manager-operations-7751fe87?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | USA-Remote Based | Remote | Full Time | Nov 25 |
@@ -58,10 +62,6 @@ Visit [Jobs in Games](https://jobsingames.com?utm_source=github&utm_medium=repo&
 | **[PlayStation](https://jobsingames.com/jobs/playstation-senior-platform-engineer-4d1673c1?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | **[Senior Platform Engineer](https://jobsingames.com/jobs/playstation-senior-platform-engineer-4d1673c1?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | United States, San Mateo, CA | On Site | Full Time | Nov 18 |
 | **[PlayStation](https://jobsingames.com/jobs/playstation-technical-program-manager-f2496a10?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | **[Technical Program Manager](https://jobsingames.com/jobs/playstation-technical-program-manager-f2496a10?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | United Kingdom, London | On Site | Full Time | Nov 18 |
 | **[Scopely](https://jobsingames.com/jobs/scopely-community-marketing-manager-pok-mon-go-b89aa89a?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | **[Community Marketing Manager - Pokémon GO!](https://jobsingames.com/jobs/scopely-community-marketing-manager-pok-mon-go-b89aa89a?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | IN - Bangalore, India | On Site | Full Time | Nov 18 |
-| **[Zynga](https://jobsingames.com/jobs/zynga-senior-software-engineer-i-bd92691b?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | **[Senior Software Engineer I](https://jobsingames.com/jobs/zynga-senior-software-engineer-i-bd92691b?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | Bengaluru, India | On Site | Full Time | Nov 18 |
-| **[Riot Games](https://jobsingames.com/jobs/riot-games-senior-brand-manager-valorant-mobile-17f6b1b9?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | **[Senior Brand Manager - VALORANT Mobile](https://jobsingames.com/jobs/riot-games-senior-brand-manager-valorant-mobile-17f6b1b9?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | Shanghai, China | On Site | Full Time | Nov 18 |
-| **[PlayStation](https://jobsingames.com/jobs/playstation-data-engineer-ii-jvm-73749a88?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | **[Data Engineer II, JVM](https://jobsingames.com/jobs/playstation-data-engineer-ii-jvm-73749a88?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | United States, Austin, TX | On Site | Full Time | Nov 18 |
-| **[Unity](https://jobsingames.com/jobs/unity-senior-application-security-engineer-6beead41?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | **[Senior Application Security Engineer](https://jobsingames.com/jobs/unity-senior-application-security-engineer-6beead41?utm_source=github&utm_medium=repo&utm_campaign=github-unity-game-jobs)** | Tel Aviv, Israel | On Site | Full Time | Nov 18 |
 
 ---
 
@@ -70,7 +70,7 @@ _Note: Stats are based on the current generated GitHub snapshot._
 
 ## Archive
 
-- [2026-11-27 archive](archive/2026-11-27.md)
+- [2026-11-28 archive](archive/2026-11-28.md)
 
 ## About This Repository
 
